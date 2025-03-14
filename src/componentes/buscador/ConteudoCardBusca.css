@@ -1,0 +1,116 @@
+.moldura_pokemon {
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+    
+}
+
+.card_pokemon {
+    height: 100px;
+    width: 100px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.cabecalho_card_busca {
+    background-color: #ddd;
+    border-radius: 10px 10px 0 0;
+}
+
+.imagem_pokemon {
+   height: 39px;
+}
+
+.nome_pokemon {
+    height: 30px;
+    border-radius: 0 0 10px 10px;
+}
+
+.tira_padrao {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.normal {
+    background-color: #9fa19f;
+}
+
+.fogo {
+    background-color: #e62829;
+    color: #eee;
+}
+
+.lutador {
+    background-color: #ff8000;
+}
+
+.água {
+    background-color: #2980ef;
+    color: #eee;
+}
+
+.voador{
+    background-color: #81b9ef;
+}
+
+.grama{
+    background-color: #3fa129;
+    color: #eee;
+}
+
+.veneno{
+    background-color: #9141cb;
+    color: #eee;
+}
+
+.elétrico{
+    background-color: #fac000;
+    color: #eee;
+}
+
+.terra{
+    background-color: #a5810a;
+}
+
+.psiquico{
+    background-color: #ef4179;
+    color: #eee;
+}
+
+.pedra {
+    background-color: #915121;
+    color: #eee;
+}
+
+.gelo{
+    background-color: #3dcef3;
+}
+
+.inseto{
+    background-color: #91a119;
+    color: #eee;
+}
+
+.dragão{
+    background-color: #5060e1;
+    color: #eee;
+}
+
+.fantasma{
+    background-color: #704170;
+    color: #eee;
+}
+
+.sombrio{
+    background-color: #624d4e;
+    color: #eee;
+}
+
+.aço{
+    background-color: #60a1b8;
+}
+
+.fada{
+    background-color: #ef70ef;
+    color: #eee;
+}
